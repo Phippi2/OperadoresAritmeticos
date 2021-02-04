@@ -21,6 +21,8 @@ public class desafioOperadoresAritmeticos {
     
     System.out.println(somafinal);
     
+    System.out.println("teste git");
+    
     
 	
 	
